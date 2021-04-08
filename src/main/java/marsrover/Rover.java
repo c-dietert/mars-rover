@@ -1,10 +1,8 @@
 package marsrover;
 
-import marsrover.location.Grid;
-
 public class Rover {
 
-    public Rover(Grid grid) {
+    public Rover() {
     }
 
     public String execute(String command) {
